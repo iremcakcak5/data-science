@@ -1,3 +1,3 @@
 
-# Data Science Homework
-### Ada Lovelace Akademi boyunca yapılan ödevler
+# data science 
+### ilk ders
