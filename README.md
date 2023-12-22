@@ -11,6 +11,8 @@
   - 3.hafta ödevi: week-3>week_3-exercise altındadır.
 ## Hafta 4
   - 4.hafta işlenen konular
+  - 4.hafta ödevi: week-4>week_4-exercise altındadır.
+  - exercise 4 için congig.py dosyası oluşturulup API key yazılmalı
 
 
   
